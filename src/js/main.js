@@ -7,6 +7,7 @@
  */
 'use strict';
 
+
 /**
  * Example of Require.js boostrap javascript
  */
